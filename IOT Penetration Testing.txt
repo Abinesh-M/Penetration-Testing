@@ -1,0 +1,17 @@
+IoT Devices and Protocols: 
+You should have a good understanding of IoT devices, such as sensors, cameras, and smart home devices, and their communication protocols such as Bluetooth, Wi-Fi, and Zigbee.
+
+IoT Security Fundamentals: 
+You should have a good understanding of IoT security concepts such as device authentication, encryption, network security, and firmware updates.
+
+IoT Penetration Testing Tools: 
+You should be familiar with IoT penetration testing tools such as FruityWifi, Shodan, and IoT Inspector, which can be used to test for IoT security vulnerabilities.
+
+Common IoT Security Vulnerabilities: 
+You should have a good understanding of common IoT security vulnerabilities such as weak passwords, unencrypted communication, firmware vulnerabilities, and weak authentication.
+
+Penetration Testing Methodology: 
+You should have a good understanding of the penetration testing methodology, which includes reconnaissance, scanning, enumeration, exploitation, and reporting.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn IoT penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

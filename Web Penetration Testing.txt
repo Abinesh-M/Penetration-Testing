@@ -1,0 +1,23 @@
+Web Development: 
+Basic knowledge of web development is essential to understand how web applications work. You should have a good understanding of HTML, CSS, JavaScript, and at least one server-side programming language such as PHP, Python, or Ruby.
+
+HTTP Protocol: 
+You should have a basic understanding of the HTTP protocol, which is used for communication between web clients and servers.
+
+Networking: 
+Basic networking knowledge is important to understand how web applications communicate with other systems over a network.
+
+Operating Systems: 
+You should have a basic understanding of operating systems, especially Linux, which is commonly used for web servers.
+
+Databases: 
+You should have a basic understanding of databases, especially SQL, which is commonly used in web applications.
+
+Security Concepts: 
+You should have a basic understanding of security concepts such as confidentiality, integrity, and availability. You should also be aware of common web vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).
+
+Tools: 
+You should be familiar with web vulnerability scanners such as Burp Suite, OWASP ZAP, and Nikto, as well as other tools like proxy tools, network scanners, and port scanners.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn web penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

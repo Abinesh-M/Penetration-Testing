@@ -1,0 +1,17 @@
+Physical Security Concepts: 
+You should have a good understanding of physical security concepts, such as access control, surveillance, and intrusion detection.
+
+Physical Security Controls: 
+You should be familiar with physical security controls, such as locks, cameras, and alarms, and how they can be bypassed or defeated.
+
+Physical Penetration Testing Tools: 
+You should be familiar with physical penetration testing tools, such as lock picks, bypass tools, and RFID cloning devices, which can be used to test physical security controls.
+
+Legal and Ethical Considerations: 
+Physical penetration testing involves accessing restricted areas and bypassing security controls, which can have legal and ethical implications. You should be aware of the laws and regulations related to physical penetration testing and obtain permission from the organization before conducting physical penetration tests.
+
+Penetration Testing Methodology: 
+You should have a good understanding of the penetration testing methodology, which includes reconnaissance, scanning, enumeration, exploitation, and reporting.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn physical penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

@@ -1,0 +1,17 @@
+Wireless Networks: 
+You should have a good understanding of wireless networks, including the different types of wireless networks, such as Wi-Fi, Bluetooth, and Zigbee.
+
+Wireless Security Fundamentals: 
+You should have a good understanding of wireless security concepts, such as encryption protocols, authentication methods, and vulnerabilities in wireless networks.
+
+Wireless Penetration Testing Tools:
+You should be familiar with wireless penetration testing tools, such as Aircrack-ng, Kismet, and Wireshark, which can be used to identify vulnerabilities in wireless networks.
+
+Common Wireless Security Vulnerabilities: 
+You should have a good understanding of common wireless security vulnerabilities, such as weak encryption, rogue access points, and misconfigured wireless routers.
+
+Penetration Testing Methodology: 
+You should have a good understanding of the penetration testing methodology, which includes reconnaissance, scanning, enumeration, exploitation, and reporting.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn wireless penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

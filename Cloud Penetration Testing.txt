@@ -1,0 +1,20 @@
+Cloud Computing Fundamentals: 
+You should have a good understanding of cloud computing concepts, such as virtualization, service models (SaaS, PaaS, IaaS), deployment models (public, private, hybrid), and cloud architecture.
+
+Cloud Security Fundamentals: 
+You should have a good understanding of cloud security concepts, such as identity and access management (IAM), data encryption, network security, and compliance requirements.
+
+Cloud Service Providers: 
+You should be familiar with cloud service providers such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), and their security features and vulnerabilities.
+
+Cloud Penetration Testing Tools: 
+You should be familiar with cloud penetration testing tools such as CloudGoat, Prowler, and ScoutSuite, which can be used to test for cloud security vulnerabilities and misconfigurations.
+
+Common Cloud Security Vulnerabilities: 
+You should have a good understanding of common cloud security vulnerabilities, such as misconfigured security groups, weak IAM policies, unsecured APIs, and unencrypted data.
+
+Penetration Testing Methodology: 
+You should have a good understanding of the penetration testing methodology, which includes reconnaissance, scanning, enumeration, exploitation, and reporting.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn cloud penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

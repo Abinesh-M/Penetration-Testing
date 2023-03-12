@@ -1,0 +1,23 @@
+Networking: 
+Understanding how networks work, how data is transmitted, and how to identify network protocols is essential for penetration testing. This includes familiarity with TCP/IP, routing and switching, and the OSI model.
+
+Operating Systems: 
+Familiarity with popular operating systems such as Windows, Linux, and macOS is critical to identify and exploit vulnerabilities.
+
+Programming: 
+You should have a good understanding of at least one programming language, such as Python or Ruby, as this will help you to create custom tools and scripts to automate penetration testing tasks.
+
+Web Application Security: 
+Knowledge of web application security, including OWASP Top 10 vulnerabilities, web application firewalls, and common web application attacks, is essential for web application penetration testing.
+
+Penetration Testing Methodology: 
+You should be familiar with the penetration testing methodology, including the reconnaissance, scanning, enumeration, exploitation, and reporting phases.
+
+Tools and Techniques: 
+A good penetration tester should be familiar with a wide range of tools and techniques for vulnerability scanning, exploitation, and post-exploitation. This includes tools such as Metasploit, Nmap, and Wireshark.
+
+Reporting: 
+Effective communication is crucial for penetration testers, and you should be able to clearly and concisely communicate your findings and recommendations in written and oral reports.
+
+Continuous Learning: 
+Keeping up-to-date with the latest security trends, vulnerabilities, and exploits is essential for a penetration tester. You should stay engaged with the security community, attend conferences, participate in online forums, and read relevant blogs and publications.

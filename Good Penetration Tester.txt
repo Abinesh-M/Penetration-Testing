@@ -1,0 +1,23 @@
+Networking Fundamentals: 
+You should have a good understanding of basic networking concepts such as IP addressing, TCP/IP protocols, and network infrastructure.
+
+Operating Systems: 
+You should have a good understanding of various operating systems, such as Windows and Linux, and their security features.
+
+Network Devices: 
+You should have a good understanding of network devices, such as routers, switches, firewalls, and intrusion detection systems, and their role in securing a network.
+
+Common Network Protocols: 
+You should have a good understanding of common network protocols, such as HTTP, FTP, SMTP, and DNS, and their vulnerabilities.
+
+Scanning and Enumeration: 
+You should be familiar with network scanning and enumeration techniques to identify potential attack vectors and targets.
+
+Exploitation Techniques: 
+You should have a good understanding of common exploitation techniques such as buffer overflows, SQL injection, and XSS attacks.
+
+Penetration Testing Tools: 
+You should be familiar with penetration testing tools such as Nmap, Metasploit, Wireshark, and Nessus, which can be used for scanning, enumeration, and exploitation.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn network penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

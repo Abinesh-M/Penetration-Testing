@@ -1,0 +1,17 @@
+Social Engineering Concepts: 
+You should have a good understanding of social engineering concepts, such as pretexting, phishing, baiting, and tailgating.
+
+Social Engineering Techniques: 
+You should be familiar with social engineering techniques, such as spear phishing, vishing, and smishing, which can be used to manipulate individuals into divulging sensitive information.
+
+Social Engineering Penetration Testing Tools: 
+You should be familiar with social engineering penetration testing tools, such as SET (Social-Engineer Toolkit), which can be used to simulate social engineering attacks and test the effectiveness of security controls.
+
+Legal and Ethical Considerations: 
+Social engineering testing involves manipulating people, which can have legal and ethical implications. You should be aware of the laws and regulations related to social engineering testing and obtain permission from the organization before conducting social engineering tests.
+
+Penetration Testing Methodology: 
+You should have a good understanding of the penetration testing methodology, which includes reconnaissance, scanning, enumeration, exploitation, and reporting.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn social engineering penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.

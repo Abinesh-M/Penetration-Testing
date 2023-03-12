@@ -1,0 +1,20 @@
+Android Operating System: 
+You should have a good understanding of the Android operating system, its architecture, and how it interacts with hardware components.
+
+Java Programming Language: 
+Android apps are primarily developed in the Java programming language. A good understanding of Java is important to understand how Android apps are developed and how they work.
+
+Android SDK: 
+You should be familiar with the Android SDK and the tools it provides, such as Android Studio, the Android Debug Bridge (ADB), and the Android Emulator.
+
+Android App Components: 
+Android apps are composed of several components, including activities, services, content providers, and broadcast receivers. You should understand how these components work and how they interact with each other.
+
+Android App Security: 
+You should be familiar with the common security risks associated with Android apps, such as insecure data storage, code injection, and application logic flaws.
+
+Penetration Testing Tools: 
+You should be familiar with penetration testing tools designed specifically for Android apps, such as Androguard, MobSF, and Drozer. These tools can be used to analyze Android apps for vulnerabilities.
+
+Online Resources: 
+There are several online resources, such as tutorials, videos, and forums, that can help you learn Android penetration testing. You can also participate in online communities to learn from experts and share your knowledge with others.
